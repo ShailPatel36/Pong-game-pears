@@ -1,0 +1,20 @@
+{
+  "name": "pong-game",
+  "version": "1.0.0",
+  "description": "A simple Pong game using JavaScript",
+  "main": "app.js",
+  "scripts": {
+    "start": "pear run -d ."
+  },
+  "keywords": [
+    "pong",
+    "game",
+    "javascript"
+  ],
+  "author": "",
+  "license": "MIT",
+  "pear": {
+    "name": "pong-game",
+    "type": "app"
+  }
+}
