@@ -5,8 +5,6 @@
 
 A modern twist on the classic Pong arcade game with a fresh pear-themed design and smooth gameplay.
 
-![Game Screenshot]("C:\Users\s_pat\OneDrive\Pictures\Screenshots\pong.jpeg.png") 
-
 ## Features
 - 🎮 1 Player (vs AI) & 2 Player modes
 - 🍐 Pear-inspired color palette
